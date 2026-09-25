@@ -1,0 +1,6 @@
+{
+  "name": "EVAL-OFERTA GenAI — Fase II",
+  "description": "Sistema de evaluación de contratación pública asistido por IA generativa: verificación de requisitos habilitantes (técnicos, financieros y garantías), hoja de cálculo con fórmulas auditables, documento de evaluación definitivo y tablero de revisión del comité.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
